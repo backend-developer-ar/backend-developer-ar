@@ -1,16 +1,13 @@
-### Hi there 👋
+### Приветствую! ;)
 
-<!--
-**backend-developer-ar/backend-developer-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧩 Я - Backend Python Разработчик
 
-Here are some ideas to get you started:
+- 🌖 Работаю и развиваюсь в сфере **Backend разработки**;
+- ☄️ Со мной можно связаться через [почту](mailto:backend.developer.ar@gmail.com) или [Telegram](https://t.me/backend_developer_ar);
+- 🌍 Моё портфолио *Backend-разработчика*:
+- - [Posting Service](https://github.com/backend-developer-ar/posting-service)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+### Hard skills:
+Python ·  FastAPI · SQLAlchemy · Alembic · Django · SQL · aiogram · arq · httpx
